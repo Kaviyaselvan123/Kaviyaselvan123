@@ -64,7 +64,7 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Kaviyaselvan123/Kaviyaselvan123/main/github-metrics.svg"/>
+<img width="900" src="https://raw.githubusercontent.com/Kaviyaselvan123/Kaviyaselvan123/main/github-metrics.svg"/>
 </p>
 
 ## 🐍 Contribution Snake
