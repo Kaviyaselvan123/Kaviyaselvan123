@@ -52,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaviyaselvan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyaselvan123&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaviyaselvan123&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyaselvan123&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔥 GitHub Streak
@@ -71,19 +71,19 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-<img src="https://github.com/Kaviyaselvan123/Kaviyaselvan123/blob/output/github-metrics.svg"/>
+<img src="https://raw.githubusercontent.com/Kaviyaselvan123/Kaviyaselvan123/main/github-metrics.svg"/>
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/Kaviyaselvan123/Kaviyaselvan123/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Kaviyaselvan123/Kaviyaselvan123/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kaviyaselvan123&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kaviyaselvan123&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ## 👀 Profile Views
