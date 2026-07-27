@@ -52,7 +52,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Kaviyaselvan123&theme=tokyonight&hide_border=true"/>
+<img src=[![GitHub Streak](https://streak-stats.demolab.com?user=Kaviyaselvan123)](https://git.io/streak-stats)
 </p>
 
 ## 📈 Contribution Graph
