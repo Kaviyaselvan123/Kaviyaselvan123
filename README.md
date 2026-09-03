@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Java+Developer;Machine+Learning+Enthusiast;MERN+Stack+Learner;Cloud+%26+DevOps+Explorer"/>
 </p>
 
----
+--- 
 
 ## 🌐 Socials
 
