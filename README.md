@@ -67,13 +67,6 @@
 <img width="900" src="https://raw.githubusercontent.com/Kaviyaselvan123/Kaviyaselvan123/main/github-metrics.svg"/>
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Kaviyaselvan123/Kaviyaselvan123/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-
 ## 👀 Profile Views
 
 <p align="center">
