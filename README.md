@@ -55,12 +55,6 @@
   <img src="https://streak-stats.demolab.com?user=Kaviyaselvan123&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaviyaselvan123&theme=tokyo-night"/>
-</p>
-
 ## 📊 GitHub Metrics
 
 <p align="center">
